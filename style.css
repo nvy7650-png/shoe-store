@@ -1,0 +1,309 @@
+.homepage,
+.homepage * {
+  box-sizing: border-box;
+}
+.homepage {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #ffffff;
+  width: 1440px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.shoe-store {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 70px;
+  top: 25px;
+}
+.home-shop-about-contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 857px;
+  top: 30px;
+}
+.rectangle-2 {
+  background: #111111;
+  width: 1440px;
+  height: 400px;
+  position: absolute;
+  left: 10px;
+  top: 95px;
+}
+.new-collection {
+  color: #c2b0b0;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 136px;
+  top: 214px;
+  width: 144px;
+  height: 23px;
+}
+.step-into-style {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 129px;
+  top: 256px;
+}
+.rectangle {
+  background: #ff3b3b;
+  width: 150px;
+  height: 50px;
+  position: absolute;
+  left: 136px;
+  top: 337px;
+}
+.shop-now {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 164px;
+  top: 350px;
+}
+.pngtree-sneakers-sneakers-blue-transparent-png-image-9062511-1 {
+  width: 397.6px;
+  height: 397.6px;
+  position: absolute;
+  left: 725.53px;
+  top: 80px;
+  transform-origin: 0 0;
+  transform: rotate(3.104deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.rectangle-3 {
+  background: #d9d9d9;
+  border-radius: 10px;
+  width: 220px;
+  height: 280px;
+  position: absolute;
+  left: 160px;
+  top: 545px;
+}
+.images-1 {
+  width: 220px;
+  height: 220px;
+  position: absolute;
+  left: 160px;
+  top: 512px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.air-sport-1-99 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 179px;
+  top: 743px;
+}
+.rectangle2 {
+  background: #ff3b3b;
+  width: 96px;
+  height: 22px;
+  position: absolute;
+  left: 222px;
+  top: 794px;
+}
+.add-to-cart {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 232px;
+  top: 796px;
+}
+.rectangle-7 {
+  background: #d9d9d9;
+  border-radius: 10px;
+  width: 220px;
+  height: 280px;
+  position: absolute;
+  left: 460px;
+  top: 545px;
+}
+.classic-runner-99 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 479px;
+  top: 743px;
+}
+.rectangle3 {
+  background: #ff3b3b;
+  width: 96px;
+  height: 22px;
+  position: absolute;
+  left: 522px;
+  top: 794px;
+}
+.add-to-cart2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 532px;
+  top: 796px;
+}
+._1000-f-577759904-ocun-lmzfobzk-lvp-5-i-qx-c-8-h-4-wj-x-3-rin-kz-1 {
+  width: 221px;
+  height: 193px;
+  position: absolute;
+  left: 460px;
+  top: 539px;
+  object-fit: cover;
+  aspect-ratio: 221/193;
+}
+.rectangle-8 {
+  background: #d9d9d9;
+  border-radius: 10px;
+  width: 220px;
+  height: 280px;
+  position: absolute;
+  left: 759px;
+  top: 548px;
+}
+.urban-sneaker-949 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 778px;
+  top: 746px;
+}
+.rectangle4 {
+  background: #ff3b3b;
+  width: 96px;
+  height: 22px;
+  position: absolute;
+  left: 821px;
+  top: 797px;
+}
+.add-to-cart3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 831px;
+  top: 799px;
+}
+.rectangle-9 {
+  background: #d9d9d9;
+  border-radius: 10px;
+  width: 220px;
+  height: 280px;
+  position: absolute;
+  left: 1058px;
+  top: 547.5px;
+}
+.fitnet-pro-940 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 1077px;
+  top: 745.5px;
+}
+.rectangle5 {
+  background: #ff3b3b;
+  width: 96px;
+  height: 22px;
+  position: absolute;
+  left: 1120px;
+  top: 796.5px;
+}
+.add-to-cart4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 1130px;
+  top: 798.5px;
+}
+.images-1-1 {
+  width: 225px;
+  height: 225px;
+  position: absolute;
+  left: 1055px;
+  top: 507px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.v {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 82.1px;
+  top: 665.06px;
+  width: 40.9px;
+  height: 55.06px;
+  transform-origin: 0 0;
+  transform: rotate(90.063deg) scale(1, 1);
+}
+.v2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 1341.95px;
+  top: 708.84px;
+  width: 40.9px;
+  height: 55.06px;
+  transform-origin: 0 0;
+  transform: rotate(-89.81deg) scale(1, 1);
+}
+._20241227-6-r-3-q-4-iat-ud-1 {
+  width: 220px;
+  height: 196px;
+  position: absolute;
+  left: 759px;
+  top: 536.5px;
+  object-fit: cover;
+  aspect-ratio: 220/196;
+}
